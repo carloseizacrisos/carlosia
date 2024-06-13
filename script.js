@@ -19,14 +19,14 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Com a descoberta desta tecnologia, chamada Inteligência Artificial, uma professora de tecnologia da escola decidiu fazer uma sequência de aulas sobre esta tecnologia. No fim de uma aula ela pede que você escreva um trabalho sobre o uso de IA em sala de aula. Qual atitude você toma?",
+        enunciado: "A IA se tornará uma parte indispensável de nossas vidas, moldando todos os aspectos da sociedade, desde a saúde até o entretenimento.",
         alternativas: [
             {
-                texto: "A integração da IA na sociedade será cada vez mais profunda, influenciando áreas-chave como saúde, transporte, educação e entretenimento..",
+                texto: "Escolas estão utilizando sistemas de tutoria inteligente baseados em IA para fornecer suporte individualizado aos alunos, adaptando o conteúdo de aprendizagem de acordo com suas necessidades e ritmo de aprendizagem.",
                 afirmacao: "A IA continuará a se tornar mais integrada à sociedade, influenciando aspectos como transporte, saúde, educação e entretenimento.."
             },
             {
-                texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
+                texto: "Escolas estão utilizando sistemas de tutoria inteligente baseados em IA para fornecer suporte individualizado aos alunos, adaptando o conteúdo de aprendizagem de acordo com suas necessidades e ritmo de aprendizagem.",
                 afirmacao: "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho."
             }
         ]

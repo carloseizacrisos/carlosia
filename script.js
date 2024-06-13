@@ -26,33 +26,33 @@ const perguntas = [
                 afirmacao: "A IA continuará a se tornar mais integrada à sociedade, influenciando aspectos como transporte, saúde, educação e entretenimento.."
             },
             {
-                texto: "Escolas estão utilizando sistemas de tutoria inteligente baseados em IA para fornecer suporte individualizado aos alunos, adaptando o conteúdo de aprendizagem de acordo com suas necessidades e ritmo de aprendizagem.",
+                texto: "Plataformas educacionais online estão empregando algoritmos de IA para analisar o desempenho dos alunos, fornecendo feedback imediato e sugestões personalizadas para melhorar o aprendizado.",
                 afirmacao: "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho."
             }
         ]
     },
     {
-        enunciado: "Após a elaboração do trabalho escrito, a professora realizou um debate entre a turma para entender como foi realizada a pesquisa e escrita. Nessa conversa também foi levantado um ponto muito importante: como a IA impacta o trabalho do futuro. Nesse debate, como você se posiciona?",
+        enunciado: "A aplicação da IA na medicina revolucionará a forma como tratamos doenças, permitindo diagnósticos mais precisos e tratamentos personalizados.",
         alternativas: [
             {
-                texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
+                texto: "Sistemas de IA estão sendo desenvolvidos para analisar grandes volumes de dados médicos, incluindo históricos de pacientes, exames laboratoriais e imagens médicas, para auxiliar os médicos na identificação precoce de doenças e na tomada de decisões clínicas mais precisas.",
                 afirmacao: "Vem impulsionando a inovação na área de IA e luta para abrir novos caminhos profissionais com IA."
             },
             {
-                texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
+                texto: "A IA está sendo empregada no desenvolvimento de terapias personalizadas, utilizando algoritmos para analisar o perfil genético de um paciente e identificar tratamentos específicos que sejam mais eficazes e tenham menos efeitos colaterais.",
                 afirmacao: "Sua preocupação com as pessoas motivou a criar um grupo de estudos entre trabalhadores para discutir meios de utilização de IA de forma ética."
             }
         ]
     },
     {
-        enunciado: "Ao final da discussão, você precisou criar uma imagem no computador que representasse o que pensa sobre IA. E agora?",
+        enunciado: "A integração da IA na mobilidade urbana levará ao desenvolvimento de sistemas de transporte autônomos, reduzindo congestionamentos e acidentes nas estradas.",
         alternativas: [
             {
-                texto: "Criar uma imagem utilizando uma plataforma de design como o Paint.",
+                texto: "Empresas de tecnologia e fabricantes de automóveis estão investindo pesadamente no desenvolvimento de veículos autônomos, que são capazes de operar de forma segura e eficiente em ambientes urbanos, contribuindo para a redução do congestionamento nas estradas.",
                 afirmacao: "Notou também que muitas pessoas não sabem ainda utilizar as ferramentas tradicionais e decidiu compartilhar seus conhecimentos de design utilizando ferramentas de pintura digital para iniciantes."
             },
             {
-                texto: "Criar uma imagem utilizando um gerador de imagem de IA.",
+                texto: "Sistemas de IA estão sendo implementados em infraestruturas de transporte, como semáforos e sinais de trânsito inteligentes, para otimizar o fluxo de tráfego, minimizando atrasos e melhorando a segurança viária nas cidades.",
                 afirmacao: "Acelerou o processo de criação de trabalhos utilizando geradores de imagem e agora consegue ensinar pessoas que sentem dificuldades em desenhar manualmente como utilizar também!"
             }
         ]
